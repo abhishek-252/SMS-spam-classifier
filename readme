@@ -1,4 +1,4 @@
-Creating a basic spam-ham classifier bt implementing nlp techniques like regular expressions , stemming , bag of words and finally using naive bayes classifier to make final 
+Creating a basic spam-ham classifier by implementing nlp techniques like regular expressions , stemming , bag of words and finally using naive bayes classifier to make final 
 predictions as it works great with nlp text data. 
 
 Info about dataset given below :
